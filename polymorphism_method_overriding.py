@@ -1,5 +1,5 @@
 class A:
-    def show(self):git
+    def show(self):
         print("In A show")
 
 
